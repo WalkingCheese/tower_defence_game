@@ -1,0 +1,1 @@
+if global.amount < 0{global.amount = 0}
