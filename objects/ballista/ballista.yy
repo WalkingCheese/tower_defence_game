@@ -16,7 +16,7 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"basement","path":"objects/tower/tower.yy",},"value":"SPballista_basement",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile_sprite","path":"objects/tower/tower.yy",},"value":"SParrow",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile_spread","path":"objects/tower/tower.yy",},"value":"2",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"fire_frames","path":"objects/tower/tower.yy",},"value":"30",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"fire_frames","path":"objects/tower/tower.yy",},"value":"fire_rate - 15",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile_sprite_size","path":"objects/tower/tower.yy",},"value":"0.5",},
   ],
   "parent": {

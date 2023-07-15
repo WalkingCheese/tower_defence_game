@@ -187,9 +187,14 @@ if _w == 15{
 		ds_list_add(queue, triangle)
 
 	}
-	repeat(10)
+	repeat(5)
 	{
 		ds_list_add(queue, elite_square)
+
+	}
+	repeat(5)
+	{
+		ds_list_add(queue, heal)
 
 	}
 
@@ -216,6 +221,11 @@ if _w == 16{
 	}
 	repeat(3)
 	{
+		ds_list_add(queue, heal)
+
+	}
+	repeat(3)
+	{
 		ds_list_add(queue, triangle)
 
 	}
@@ -228,20 +238,29 @@ if _w == 16{
 if _w > 16{
 	if _w % 2 == 0
 	{
-	repeat(_w / 5)
+		repeat(_w / 5)
+		{
+			ds_list_add(queue, blocker)
+		}
+	}
+	else
 	{
-		ds_list_add(queue, blocker)
+		repeat(_w / 5)
+		{
+			ds_list_add(queue, heal)
+		}
 	}
-	}
+	
 	if _w % 3 == 0
 	{
-	repeat(_w / 5)
-	{
-		ds_list_add(queue, elite_square)
-		ds_list_add(queue, elite_circle)
-		ds_list_add(queue, elite_triangle)
+		repeat(_w / 5)
+		{
+			ds_list_add(queue, elite_square)
+			ds_list_add(queue, elite_circle)
+			ds_list_add(queue, elite_triangle)
+		}
 	}
-	}
+	
 	repeat(_w / 5)
 	{
 		ds_list_add(queue, square)

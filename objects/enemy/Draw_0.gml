@@ -1,14 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-if freezeing{draw_set_color(#54ddff)}
-else{draw_set_color(#ffffff)}
 draw_self()
-draw_set_color(#ffffff)
-
-
-
-
-
-
-
+draw_healthbar(x-32,y-32,x-38,y+32,hp/max_hp*100,#111111,#990000, #aa0000, 3, true, true)
 
