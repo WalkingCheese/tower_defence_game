@@ -8,7 +8,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"fire_rate","path":"objects/tower/tower.yy",},"value":"20",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"damage","path":"objects/tower/tower.yy",},"value":"0.5",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"damage","path":"objects/tower/tower.yy",},"value":"0.501",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile_speed","path":"objects/tower/tower.yy",},"value":"5",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile_tint","path":"objects/tower/tower.yy",},"value":"$FF99841E",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"explosion_size","path":"objects/tower/tower.yy",},"value":"0",},
