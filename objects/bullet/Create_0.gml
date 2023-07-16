@@ -9,4 +9,4 @@ image_alpha = (projectile_tint >> 24) / 255;
 image_xscale = projectile_sprite_size;
 image_yscale = projectile_sprite_size;
 
-speed = speed;
+speed = projectile_speed;

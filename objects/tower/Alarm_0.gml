@@ -27,7 +27,7 @@ if  collision_ellipse(_minus_range_x, _minus_range_y, _plus_range_x, _plus_range
 	_bull.damage = damage
 	_bull.explosion_size = explosion_size
 	_bull.direction = direction + round(random_range(-projectile_spread, projectile_spread))
-	_bull.speed = projectile_speed + random_range(projectile_speed/10 * -1,projectile_speed/10)
+	_bull.projectile_speed = projectile_speed + random_range(projectile_speed/10 * -1,projectile_speed/10)
 	_bull.projectile_sprite = projectile_sprite
 	_bull.projectile_sprite_size = projectile_sprite_size
 	_bull.projectile_noclip = projectile_noclip

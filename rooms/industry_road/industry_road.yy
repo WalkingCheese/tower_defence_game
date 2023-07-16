@@ -120,7 +120,7 @@
   "parentRoom": null,
   "physicsSettings": {
     "inheritPhysicsSettings": false,
-    "PhysicsWorld": true,
+    "PhysicsWorld": false,
     "PhysicsWorldGravityX": 0.0,
     "PhysicsWorldGravityY": 0.0,
     "PhysicsWorldPixToMetres": 0.1,
