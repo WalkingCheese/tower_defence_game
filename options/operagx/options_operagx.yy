@@ -17,11 +17,11 @@
   "option_operagx_mod_team_id": "",
   "option_operagx_mod_team_name": "",
   "option_operagx_mod_version": "1.0.0.0",
-  "option_operagx_next_version": "0.0.0.15",
+  "option_operagx_next_version": "0.0.0.17",
   "option_operagx_publicShareUrl": "",
   "option_operagx_scale": 0,
   "option_operagx_team_id": "64437f46-8f75-45ca-814b-6e49c7174b69",
   "option_operagx_team_name": "Can-of-salt studio",
   "option_operagx_texture_page": "2048x2048",
-  "option_operagx_version": "0.0.0.14",
+  "option_operagx_version": "0.0.0.16",
 }

@@ -19,7 +19,6 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"base_price","path":"objects/tower/tower.yy",},"value":"gunner_placer.price",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile_sprite","path":"objects/tower/tower.yy",},"value":"SPbullet_round",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile_sprite_size","path":"objects/tower/tower.yy",},"value":"0.7",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"tower","path":"objects/tower/tower.yy",},"propertyId":{"name":"projectile","path":"objects/tower/tower.yy",},"value":"bullet_round",},
   ],
   "parent": {
     "name": "Objects",

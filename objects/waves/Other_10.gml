@@ -59,7 +59,7 @@ if _w == 5{
 	{
 		ds_list_add(queue, circle)
 	}
-
+	ds_list_add(queue, jumper)
 	dis = 10
 	rest = 140
 	reward = 25
@@ -235,7 +235,80 @@ if _w == 16{
 	reward = 20
 }
 
-if _w > 16{
+if _w == 17{
+	repeat(10)
+	{
+		ds_list_add(queue, jumper)
+
+	}
+	
+
+	dis = 20
+	rest = 140
+	reward = 0
+}
+
+if _w == 17{
+	repeat(8)
+	{
+		ds_list_add(queue, jumper)
+		ds_list_add(queue, elite_circle)
+	}
+	
+
+	dis = 20
+	rest = 140
+	reward = 5
+}
+
+if _w == 18{
+	repeat(10)
+	{
+		ds_list_add(queue, jumper)
+		ds_list_add(queue, elite_circle)
+	}
+	
+
+	dis = 20
+	rest = 140
+	reward = 5
+}
+
+if _w == 19{
+	repeat(7)
+	{
+		ds_list_add(queue, jumper)
+		ds_list_add(queue, blocker)
+		ds_list_add(queue, heal)
+	}
+	
+
+	dis = 20
+	rest = 140
+	reward = 5
+}
+
+if _w == 20{
+	repeat(3)
+	{
+		ds_list_add(queue, jumper)
+		ds_list_add(queue, blocker)
+		ds_list_add(queue, heal)
+		ds_list_add(queue, circle)
+		ds_list_add(queue, square)
+		ds_list_add(queue, triangle)
+		ds_list_add(queue, elite_circle)
+		ds_list_add(queue, elite_square)
+		ds_list_add(queue, elite_triangle)
+	}
+	
+
+	dis = 20
+	rest = 140
+	reward = 5
+}
+
+if _w > 20{
 	if _w % 2 == 0
 	{
 		repeat(_w / 5)
@@ -260,7 +333,12 @@ if _w > 16{
 			ds_list_add(queue, elite_triangle)
 		}
 	}
-	
+	else{
+		repeat(_w / 4)
+		{
+			ds_list_add(queue, jumper)
+		}
+	}
 	repeat(_w / 5)
 	{
 		ds_list_add(queue, square)

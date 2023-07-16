@@ -1,0 +1,1 @@
+part_type_life(type, 0, 0);
