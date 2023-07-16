@@ -86,6 +86,7 @@
     {"name":"RDgun","order":1,"path":"sprites/RDgun/RDgun.yy",},
     {"name":"blaster_placer","order":3,"path":"objects/blaster_placer/blaster_placer.yy",},
     {"name":"SPheal","order":32,"path":"sprites/SPheal/SPheal.yy",},
+    {"name":"persitant_object","order":16,"path":"objects/persitant_object/persitant_object.yy",},
     {"name":"Path2","order":1,"path":"paths/Path2/Path2.yy",},
     {"name":"upgrade","order":9,"path":"objects/upgrade/upgrade.yy",},
     {"name":"SPtp_particle","order":34,"path":"sprites/SPtp_particle/SPtp_particle.yy",},

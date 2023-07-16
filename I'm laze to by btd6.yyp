@@ -113,6 +113,7 @@
     {"id":{"name":"RDgun","path":"sprites/RDgun/RDgun.yy",},},
     {"id":{"name":"blaster_placer","path":"objects/blaster_placer/blaster_placer.yy",},},
     {"id":{"name":"SPheal","path":"sprites/SPheal/SPheal.yy",},},
+    {"id":{"name":"persitant_object","path":"objects/persitant_object/persitant_object.yy",},},
     {"id":{"name":"Path2","path":"paths/Path2/Path2.yy",},},
     {"id":{"name":"upgrade","path":"objects/upgrade/upgrade.yy",},},
     {"id":{"name":"SPtp_particle","path":"sprites/SPtp_particle/SPtp_particle.yy",},},

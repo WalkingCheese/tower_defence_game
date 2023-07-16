@@ -1,0 +1,1 @@
+draw_set_font(gamemaker_font)

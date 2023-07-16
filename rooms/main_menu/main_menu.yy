@@ -10,6 +10,7 @@
     {"name":"inst_7FFEF38","path":"rooms/main_menu/main_menu.yy",},
     {"name":"inst_2B33B39","path":"rooms/main_menu/main_menu.yy",},
     {"name":"inst_24B508DC","path":"rooms/main_menu/main_menu.yy",},
+    {"name":"inst_11D4F6FA","path":"rooms/main_menu/main_menu.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -26,6 +27,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"play_button","path":"objects/play_button/play_button.yy",},"propertyId":{"name":"goto","path":"objects/play_button/play_button.yy",},"value":"hell_meadow",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":544.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_24B508DC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"learn_button","path":"objects/learn_button/learn_button.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":672.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_11D4F6FA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"persitant_object","path":"objects/persitant_object/persitant_object.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"BGgun","path":"sprites/BGgun/BGgun.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
