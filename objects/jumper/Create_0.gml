@@ -1,5 +1,4 @@
 path_start(global.path, spd, path_action_stop, true);
-
 alarm_set(11, 1);
 alarm_set(10, 1)
 

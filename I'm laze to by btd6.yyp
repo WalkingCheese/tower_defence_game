@@ -57,6 +57,7 @@
     {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
     {"id":{"name":"SPtutorial_bg","path":"sprites/SPtutorial_bg/SPtutorial_bg.yy",},},
     {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},},
+    {"id":{"name":"learning_panel_enemy","path":"objects/learning_panel_enemy/learning_panel_enemy.yy",},},
     {"id":{"name":"waves","path":"objects/waves/waves.yy",},},
     {"id":{"name":"ballista","path":"objects/ballista/ballista.yy",},},
     {"id":{"name":"SPexplosion","path":"sprites/SPexplosion/SPexplosion.yy",},},

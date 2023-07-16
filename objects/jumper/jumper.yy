@@ -12,7 +12,7 @@
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"enemy","path":"objects/enemy/enemy.yy",},"propertyId":{"name":"spd","path":"objects/enemy/enemy.yy",},"value":"4",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"enemy","path":"objects/enemy/enemy.yy",},"propertyId":{"name":"hp","path":"objects/enemy/enemy.yy",},"value":"10",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"enemy","path":"objects/enemy/enemy.yy",},"propertyId":{"name":"price","path":"objects/enemy/enemy.yy",},"value":"7",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"enemy","path":"objects/enemy/enemy.yy",},"propertyId":{"name":"price","path":"objects/enemy/enemy.yy",},"value":"5",},
   ],
   "parent": {
     "name": "Objects",

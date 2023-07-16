@@ -35,6 +35,7 @@
     {"name":"main_menu","order":1,"path":"rooms/main_menu/main_menu.yy",},
     {"name":"SPtutorial_bg","order":35,"path":"sprites/SPtutorial_bg/SPtutorial_bg.yy",},
     {"name":"exit_button","order":14,"path":"objects/exit_button/exit_button.yy",},
+    {"name":"learning_panel_enemy","order":24,"path":"objects/learning_panel_enemy/learning_panel_enemy.yy",},
     {"name":"waves","order":11,"path":"objects/waves/waves.yy",},
     {"name":"ballista","order":19,"path":"objects/ballista/ballista.yy",},
     {"name":"SPexplosion","order":5,"path":"sprites/SPexplosion/SPexplosion.yy",},
