@@ -28,7 +28,7 @@ if page == 2
 // gunner
 if page == 3
 {
-	var _desc = "The autogun is a device for annoying your enemies. It's cheap damage! \n\nBase stats:\n Damage - 0.501 x 2\n Reload time - 20 frames\n No explosion\n Range - 96\n Price - 35\nUpgrades:\n 1 lvl - damage +1\n 2 lvl - faster bullet speed\n 3 lvl - range + 32\n 4 lvl - reload time -5\n 5 lvl - reload time -5"
+	var _desc = "The autogun is a device for annoying your enemies. It's cheap damage! \n\nBase stats:\n Damage - 0.501 x 2\n Reload time - 20 frames\n No explosion\n Range - 96\n Price - 35\nUpgrades:\n 1 lvl - damage +1\n 2 lvl - faster bullet speed\n 3 lvl - range + 32\n 4 lvl - reload time -5\n 5 lvl - reload time -5 and can shoot air enemies"
 	var _heading = "Autogun"
 	var _sprite = SPgunner
 }
@@ -36,7 +36,7 @@ if page == 3
 // ballista
 if page == 4
 {
-	var _desc = "Who brought ballistae to the future?! And why are they so effective?! \n\nBase stats:\n Damage - 8\n Reload time - 65 frames\n No explosion\n Range - 192\n Price - 45\nUpgrades:\n 1 lvl - damage +2, range +32\n 2 lvl - damage +1, range +32\n 3 lvl - damage +1, range +32\n 4 lvl - reload time -5\n 5 lvl - reload time -5"
+	var _desc = "Who brought ballistae to the future?! And why are they so effective?! \n\nBase stats:\n Damage - 8\n Reload time - 65 frames\n No explosion\n Range - 192\n Price - 45\nUpgrades:\n 1 lvl - damage +2, range +32\n 2 lvl - damage +1, range +32\n 3 lvl - damage +1, range +32\n 4 lvl - reload time -5 and can shoot air enemies\n 5 lvl - reload time -5"
 	var _heading = "Ballista"
 	var _sprite = SPballista
 }

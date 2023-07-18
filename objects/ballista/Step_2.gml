@@ -17,5 +17,5 @@ if level == 2{damage = 11
 if level == 3{damage = 12
 			projectile_speed = 4.5
 			range = 288}
-if level == 4{fire_rate = 60}
+if level == 4{fire_rate = 60; air_and_land = true}
 if level == 5{fire_rate = 55}

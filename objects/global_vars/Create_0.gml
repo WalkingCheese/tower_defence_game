@@ -1,4 +1,4 @@
-global.money = 108;
+global.money = 10800;
 global.path = path;
 global.hp = 5;
 global.amount = 0;

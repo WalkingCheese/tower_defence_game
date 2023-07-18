@@ -43,4 +43,11 @@ if page == 5
 	var _heading = "Jumper"
 	var _sprite = SPjumper
 }
+// heli
+if page == 6
+{
+	var _desc = "The heli is similar to the triangle, but can be only be shot by special towers that can shoot air enemies. \n\n Health - 9\n Speed - 4\n Money - 6"
+	var _heading = "Heli"
+	var _sprite = SPheli
+}
 draw_page(_heading, _desc, _sprite)

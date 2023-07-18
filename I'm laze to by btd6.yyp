@@ -29,9 +29,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"rough-and-straight.ttf","CopyToMask":-1,"filePath":"datafiles",},
-  ],
+  "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -86,6 +84,7 @@
     {"id":{"name":"SPtutorial_btn","path":"sprites/SPtutorial_btn/SPtutorial_btn.yy",},},
     {"id":{"name":"SPcrate","path":"sprites/SPcrate/SPcrate.yy",},},
     {"id":{"name":"SPfreezer_placer","path":"sprites/SPfreezer_placer/SPfreezer_placer.yy",},},
+    {"id":{"name":"heli","path":"objects/heli/heli.yy",},},
     {"id":{"name":"SPfreezer_thingy","path":"sprites/SPfreezer_thingy/SPfreezer_thingy.yy",},},
     {"id":{"name":"gunner_placer","path":"objects/gunner_placer/gunner_placer.yy",},},
     {"id":{"name":"SPfreezer","path":"sprites/SPfreezer/SPfreezer.yy",},},
@@ -109,6 +108,7 @@
     {"id":{"name":"SPhell_rock","path":"sprites/SPhell_rock/SPhell_rock.yy",},},
     {"id":{"name":"blaster","path":"objects/blaster/blaster.yy",},},
     {"id":{"name":"blocker","path":"objects/blocker/blocker.yy",},},
+    {"id":{"name":"SPheli","path":"sprites/SPheli/SPheli.yy",},},
     {"id":{"name":"SPbuild_zone_centre","path":"sprites/SPbuild_zone_centre/SPbuild_zone_centre.yy",},},
     {"id":{"name":"RDgun","path":"sprites/RDgun/RDgun.yy",},},
     {"id":{"name":"blaster_placer","path":"objects/blaster_placer/blaster_placer.yy",},},

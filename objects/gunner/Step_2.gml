@@ -16,4 +16,4 @@ if level == 3
 	range=128
 	}
 if level == 4{fire_rate = 15}
-if level == 5{fire_rate = 10}
+if level == 5{fire_rate = 10;air_and_land = true}

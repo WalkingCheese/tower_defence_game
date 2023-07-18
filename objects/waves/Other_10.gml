@@ -252,7 +252,7 @@ if _w == 17{
 	repeat(8)
 	{
 		ds_list_add(queue, jumper)
-		ds_list_add(queue, elite_circle)
+		ds_list_add(queue, heli)
 	}
 	
 
@@ -265,7 +265,7 @@ if _w == 18{
 	repeat(10)
 	{
 		ds_list_add(queue, jumper)
-		ds_list_add(queue, elite_circle)
+		ds_list_add(queue, heli)
 	}
 	
 
@@ -277,7 +277,7 @@ if _w == 18{
 if _w == 19{
 	repeat(7)
 	{
-		ds_list_add(queue, jumper)
+		ds_list_add(queue, heli)
 		ds_list_add(queue, blocker)
 		ds_list_add(queue, heal)
 	}
@@ -300,6 +300,7 @@ if _w == 20{
 		ds_list_add(queue, elite_circle)
 		ds_list_add(queue, elite_square)
 		ds_list_add(queue, elite_triangle)
+		ds_list_add(queue, heli)
 	}
 	
 
@@ -350,6 +351,12 @@ if _w > 20{
 	repeat(_w / 5)
 	{
 		ds_list_add(queue, triangle)
+	}
+	if random_range(0, 10) > 50{
+	repeat(_w / 5)
+	{
+		ds_list_add(queue, heli)
+	}
 	}
 
 
