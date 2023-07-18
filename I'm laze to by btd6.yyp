@@ -38,6 +38,7 @@
   "resources": [
     {"id":{"name":"elite_circle","path":"objects/elite_circle/elite_circle.yy",},},
     {"id":{"name":"learn","path":"rooms/learn/learn.yy",},},
+    {"id":{"name":"glitch","path":"objects/glitch/glitch.yy",},},
     {"id":{"name":"build_zone","path":"objects/build_zone/build_zone.yy",},},
     {"id":{"name":"SPballista","path":"sprites/SPballista/SPballista.yy",},},
     {"id":{"name":"SPjumper","path":"sprites/SPjumper/SPjumper.yy",},},
@@ -97,6 +98,7 @@
     {"id":{"name":"SPsquare","path":"sprites/SPsquare/SPsquare.yy",},},
     {"id":{"name":"how_to_fix_any_problem","path":"notes/how_to_fix_any_problem/how_to_fix_any_problem.yy",},},
     {"id":{"name":"SPsniper","path":"sprites/SPsniper/SPsniper.yy",},},
+    {"id":{"name":"SPglitch","path":"sprites/SPglitch/SPglitch.yy",},},
     {"id":{"name":"SPbuild_zone","path":"sprites/SPbuild_zone/SPbuild_zone.yy",},},
     {"id":{"name":"SPblaster","path":"sprites/SPblaster/SPblaster.yy",},},
     {"id":{"name":"side_bar","path":"objects/side_bar/side_bar.yy",},},

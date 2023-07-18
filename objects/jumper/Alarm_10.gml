@@ -12,6 +12,7 @@ if freezeing
 		//part_type_life(_p, 5, 15);
 	//}
 	freezeing = false
+	freeze_remaining = 0
 	path_position += 0.02
 	//repeat(6)
 	//{

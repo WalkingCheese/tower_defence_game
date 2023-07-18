@@ -309,7 +309,7 @@ if _w == 20{
 	reward = 5
 }
 
-if _w > 20{
+if _w>20 and 51>_w{
 	if _w % 2 == 0
 	{
 		repeat(_w / 5)
@@ -363,4 +363,21 @@ if _w > 20{
 	dis = 10
 	rest = 60
 	reward = 50
+}
+
+if _w == 51{
+	global.selected = noone
+	instance_destroy(tower)
+	ds_list_add(queue, glitch)
+	dis = 0
+	rest = 280
+	reward = 0
+}
+
+if _w == 52{
+	ds_list_add(queue, glitch)
+	ds_list_add(queue, glitch)
+	dis = 40
+	rest = 280
+	reward = 0
 }

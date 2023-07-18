@@ -20,6 +20,7 @@
   "ResourceOrderSettings": [
     {"name":"elite_circle","order":14,"path":"objects/elite_circle/elite_circle.yy",},
     {"name":"learn","order":3,"path":"rooms/learn/learn.yy",},
+    {"name":"glitch","order":26,"path":"objects/glitch/glitch.yy",},
     {"name":"build_zone","order":12,"path":"objects/build_zone/build_zone.yy",},
     {"name":"SPballista","order":30,"path":"sprites/SPballista/SPballista.yy",},
     {"name":"SPjumper","order":33,"path":"sprites/SPjumper/SPjumper.yy",},
@@ -73,6 +74,7 @@
     {"name":"square","order":10,"path":"objects/square/square.yy",},
     {"name":"SPsquare","order":15,"path":"sprites/SPsquare/SPsquare.yy",},
     {"name":"SPsniper","order":8,"path":"sprites/SPsniper/SPsniper.yy",},
+    {"name":"SPglitch","order":38,"path":"sprites/SPglitch/SPglitch.yy",},
     {"name":"SPbuild_zone","order":20,"path":"sprites/SPbuild_zone/SPbuild_zone.yy",},
     {"name":"SPblaster","order":2,"path":"sprites/SPblaster/SPblaster.yy",},
     {"name":"side_bar","order":5,"path":"objects/side_bar/side_bar.yy",},

@@ -25,7 +25,7 @@ if page == 2
 // blocker
 if page == 3
 {
-	var _desc = "The blocker is similar to the square, but it takes damage only from explosions. \n\n Health - 18\n Speed - 2\n Money - 6"
+	var _desc = "The blocker is similar to the circle, but it only takes damage from explosions. \n\n Health - 10\n Speed - 2\n Money - 6"
 	var _heading = "Blocker"
 	var _sprite = SPblocker
 }
@@ -46,7 +46,7 @@ if page == 5
 // heli
 if page == 6
 {
-	var _desc = "The heli is similar to the triangle, but can be only be shot by special towers that can shoot air enemies. \n\n Health - 9\n Speed - 4\n Money - 6"
+	var _desc = "The heli is similar to the circle, but can be only be shot by special towers that can shoot air enemies. \n\n Health - 9\n Speed - 4\n Money - 6"
 	var _heading = "Heli"
 	var _sprite = SPheli
 }
