@@ -1,0 +1,1 @@
+other.hp -= damage /  explosion_time

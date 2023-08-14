@@ -24,12 +24,14 @@ if(pos >= 1)
 	/// @DnDHash : 1C043BE8
 	/// @DnDInput : 2
 	/// @DnDParent : 10C72E30
-	/// @DnDArgument : "value" "-1"
+	/// @DnDArgument : "value" "-dmg"
 	/// @DnDArgument : "value_relative" "1"
+	/// @DnDArgument : "value_1" "-1"
+	/// @DnDArgument : "value_relative_1" "1"
 	/// @DnDArgument : "var" "global.hp"
 	/// @DnDArgument : "var_1" "global.amount"
-	global.hp += -1;
-	global.amount = 0;
+	global.hp += -dmg;
+	global.amount += -1;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
